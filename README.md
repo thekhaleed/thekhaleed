@@ -1,4 +1,4 @@
-## Valar Morghulis
+## Valar Morghulis 👋
 
 Mwangi is a Software Engineer with a BSc. Software Engineering, currently pursuing BSc. Mathematics & Computing and with 4 years of experience in the art of
 building software products. Currently focused towards being a cracked backend engineer with a strong foundation in software architecture and system design.
@@ -23,21 +23,13 @@ Constantly evolving through passion and creativity.
 - Next.js
 - React
 
-### Palette
+### The Palette
 
 - Git
 - Docker
 - Postman
 - Linux
 - VS Code
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekhaleedE&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thekhaleed&layout=compact)
 
 ---
 
