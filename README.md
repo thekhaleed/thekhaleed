@@ -1,6 +1,6 @@
 ## Valar Morghulis 👋
 
-Mwangi is a Software Engineer with a BSc. Software Engineering, currently pursuing BSc. Mathematics & Computing and with 4 years of experience in the art of building software products. Currently, I'm focused towards being a cracked backend engineer with a strong foundation in software architecture and system design. 
+Mwangi is a Software Engineer with a BSc. Software Engineering, pursuing BSc. Mathematics & Computing and with 4 years of experience in the art of building software products. Currently, I'm focused towards being a cracked backend engineer with a strong foundation in software architecture and system design. 
 
 Long term, I'm building toward Machine Learning Engineering, leveraging mathematics, computing and software engineering to design and implement intelligent systems and algorithms that solve meaningful real world problems.
 
