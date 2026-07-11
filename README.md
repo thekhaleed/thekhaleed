@@ -23,13 +23,8 @@ Constantly evolving through passion and creativity.
 - Next.js
 - React
 
-### The Palette
-
-- Git
-- Docker
-- Postman
-- Linux
-- VS Code
+### The Gallery
+https://mwangibrian.netlify.app
 
 ---
 
