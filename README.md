@@ -35,14 +35,12 @@ Constantly evolving through passion and creativity.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekhaleedE&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thekhaleed&layout=compact)
 
 ---
 
 ## Let's Connect:
 - Email: meetmwangi@gmail.com
 - Linkedin: https://www.linkedin.com/in/meetmwangi
-- ⚡ Fun fact: ...
--->
