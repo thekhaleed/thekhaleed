@@ -1,16 +1,48 @@
-## Hi there 👋
+## Valar Morghulis
 
-<!--
-**thekhaleed/thekhaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mwangi is a Software Engineer with a BSc. Software Engineering, currently pursuing BSc. Mathematics & Computing and with 4 years of experience in the art of
+building software products. Currently focused towards being a cracked backend engineer with a strong foundation in software architecture and system design.
+Long term, I'm building toward Machine Learning Engineering, leveraging mathematics, computing and software engineering to design intelligent systems that solve meaningful real world problems.
 
-Here are some ideas to get you started:
+Constantly evolving through passion and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🛠️ Tools Of Trade
+
+### Paint Brushes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+
+### The Colors
+
+- Spring Boot
+- Python Flask
+- Next.js
+- React
+
+### Palette
+
+- Git
+- Docker
+- Postman
+- Linux
+- VS Code
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Let's Connect:
+- Email: meetmwangi@gmail.com
+- Linkedin: https://www.linkedin.com/in/meetmwangi
 - ⚡ Fun fact: ...
 -->
