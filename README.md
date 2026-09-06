@@ -15,7 +15,7 @@ Constantly evolving through passion and creativity.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 📐 Mathematical Foundations
+### Mathematical Foundations
 
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-8A2BE2?style=for-the-badge)
 ![Calculus](https://img.shields.io/badge/Calculus-6A5ACD?style=for-the-badge)
