@@ -21,11 +21,6 @@ Constantly evolving through passion and creativity.
 ![Calculus](https://img.shields.io/badge/Calculus-6A5ACD?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-483D8B?style=for-the-badge)
 
-### The Gallery
-https://mwangibrian.netlify.app
-
----
-
 ## Let's Connect:
 - Email: meetmwangi@gmail.com
 - Linkedin: https://www.linkedin.com/in/meetmwangi
