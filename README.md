@@ -1,6 +1,6 @@
 ## Valar Morghulis 👋
 
-Mwangi is a Software Engineer with a BSc. Software Engineering, pursuing BSc. Mathematics & Computing and with 4 years of experience in the art of building software products. I'm building toward Machine Learning Engineering, leveraging mathematics, computing and software engineering to design and implement intelligent systems and algorithms that solve meaningful real world problems.
+Mwangi is a Software Engineer with a BSc. Software Engineering, pursuing BSc. Mathematics & Computing and with 3 years of experience in the art of building software products. I'm building toward Machine Learning Engineering, leveraging mathematics, computing and software engineering to design and implement intelligent systems and algorithms that solve meaningful real world problems.
 
 Constantly evolving through passion and creativity.
 
