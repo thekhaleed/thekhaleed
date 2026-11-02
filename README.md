@@ -1,8 +1,8 @@
 Valar Morghulis 👋
 
-* For my legacy, I use mathematics and tech to solve real world problems.
-* For my soul, I do art.
-* For my body I move.
+For my legacy, I use mathematics and tech to solve real world problems.
+For my soul, I do art.
+For my body, I move.
 
 Constantly evolving through passion and creativity.
 
