@@ -1,4 +1,4 @@
-Jambo Rafiki👋,
+Jambo👋,
 
 * For my legacy, I use mathematics, engineering and tech to solve real world problems.
 * For my soul, I do art and study human behavior psychology.
