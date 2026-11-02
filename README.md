@@ -2,7 +2,7 @@ Valar Morghulis 👋,
 
 * For my legacy, I use mathematics and tech to solve real world problems.
 * For my soul, I do art.
-* For my body, I move.
+* For my body, I watch what I eat, I move & I practice calisthenics.
 * For my clients, I make it happen! Whatever it is, bring deals.
   
 Constantly evolving through passion and creativity.
