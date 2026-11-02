@@ -1,6 +1,6 @@
 Jambo👋,
 
-* For my legacy, I use mathematics, engineering and tech to solve real world problems.
+* For my legacy, I use mathematics, business and tech to solve real world problems.
 * For my soul, I do art and study human behavior psychology.
 * For my body, I watch what I eat, move and practice calisthenics.
 * For my clients, I make it happen! Whatever it is, let's talk business Rafiki.
