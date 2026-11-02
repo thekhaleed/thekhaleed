@@ -13,16 +13,18 @@ Constantly evolving through passion and creativity.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-0078D4?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Mathematical Foundations
 
+![Statistics](https://img.shields.io/badge/Statistics-228B22?style=for-the-badge)
 ![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-8A2BE2?style=for-the-badge)
-![Calculus](https://img.shields.io/badge/Calculus-6A5ACD?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-483D8B?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Calculus-6A5ACD?style=for-the-badge)
+![Mathematical Analysis](https://img.shields.io/badge/Mathematical_Analysis-483D8B?style=for-the-badge)
 
 ## Let's Connect:
 - Email: meetmwangi@gmail.com
