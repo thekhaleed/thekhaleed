@@ -1,9 +1,9 @@
-Valar Morghulis 👋,
+Jambo Rafiki👋,
 
-* For my legacy, I use mathematics and tech to solve real world problems.
-* For my soul, I do art.
-* For my body, I watch what I eat, I move & I practice calisthenics.
-* For my clients, I make it happen! Whatever it is, bring deals.
+* For my legacy, I use mathematics, engineering and tech to solve real world problems.
+* For my soul, I do art and study human behavior psychology.
+* For my body, I watch what I eat, move and practice calisthenics.
+* For my clients, I make it happen! Whatever it is, let's talk business Rafiki.
   
 Constantly evolving through passion and creativity.
 
